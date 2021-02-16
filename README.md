@@ -15,7 +15,7 @@ Run server.py with correct parameters:
 ./server.py [PORT] [HOST]
 ```
 
-You can also run directly, in that case it defaults to 10000 localhost:
+You can run directly, in that case it default port and host would be 10000 localhost:
 
 ```bash
 ./server.py 
